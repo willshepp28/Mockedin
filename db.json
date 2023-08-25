@@ -1,0 +1,8 @@
+{
+  "linkedinUsers": [
+    { "id": 1, "name": "John Doe", "position": "Developer" },
+    { "id": 2, "name": "Jane Smith", "position": "Recruiter" },
+    { "id": 3, "name": "Emily Johnson", "position": "CEO" },
+    { "id": 4, "name": "Mike Brown", "position": "Sales" }
+  ]
+}
